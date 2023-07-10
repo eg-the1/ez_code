@@ -1,0 +1,11 @@
+{
+  "name": "ez_code",
+  "version": "1.0.0",
+  "description": "웹에서 작동하는 한국어 텍스트 코딩",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

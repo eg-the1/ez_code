@@ -1,0 +1,21 @@
+
+.top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px; /* 적당한 높이 설정 */
+  display: flex; /* 플렉스 박스 사용 */
+  align-items: center;
+  background-color: black;
+}
+
+#bar-text{
+  color: white;
+  font-size:25px;
+  margin: 0 auto;
+}
+.line {
+  border-top: 1px solid black; /* 선의 스타일 및 색상 설정 */
+  margin-bottom: 20px; /* 각 줄 사이의 아래쪽 여백 설정 */
+}
